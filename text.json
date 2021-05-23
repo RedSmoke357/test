@@ -1,0 +1,12 @@
+{
+  "name": "Ilusha",
+  "user": ["red", "smoke"],
+  "player": {
+    "nick": "xuilo228",
+    "name": "Pavel"
+  },
+  "header": {
+    "nav-links": ["Головна", "Пронос", "бравл старс"],
+    "switch": ["UA", "ENG"]
+  }
+}
